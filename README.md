@@ -1,6 +1,10 @@
 
 <img width="1362" height="643" alt="image" src="https://github.com/user-attachments/assets/84541433-7001-43c9-9295-d076f899d1ec" />
 
+
+demo video 👉🏻https://youtu.be/wpvfFQmd1LQ?si=4d6yOh6u03H2lDVw
+
+
 # TaskFlow AI
 
 TaskFlow AI is a full-stack productivity workspace built with **Next.js**, **Firebase**, and **Genkit (Gemini)**.  
